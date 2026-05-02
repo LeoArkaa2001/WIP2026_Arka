@@ -1,0 +1,14 @@
+package AprilBatch_day4;
+import java.util.*;
+public class arrayAscending {
+	public static void main(String[] args) {
+        Integer[] arr = {5, 2, 9, 1, 6};
+
+        
+        Arrays.sort(arr);
+        System.out.println("Ascending: " + Arrays.toString(arr));
+
+        
+    }
+
+}
